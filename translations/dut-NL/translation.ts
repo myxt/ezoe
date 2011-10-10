@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="nl_NL">
 <context>
     <name>design/admin/content/browse</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Favorieten</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/edit</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>File type</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandstype</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Grootte</translation>
+        <translation>Grootte</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Type</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/search</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/upload</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Uploaden</translation>
     </message>
 </context>
 <context>
@@ -56,55 +56,55 @@
     <name>design/standard/content/edit</name>
     <message>
         <source>Send for publishing</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzenden voor publicatie</translation>
     </message>
     <message>
         <source>Store draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Concept opslaan</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Concept verwijderen</translation>
     </message>
 </context>
 <context>
     <name>design/standard/content/search</name>
     <message>
         <source>No results were found when searching for &amp;quot;%1&amp;quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen resultaten gevonden bij het zoeken naar &amp;quot;%1&amp;quot;</translation>
     </message>
 </context>
 <context>
     <name>design/standard/content/view</name>
     <message>
         <source>You have no bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen favorieten</translation>
     </message>
 </context>
 <context>
     <name>design/standard/error/kernel</name>
     <message>
         <source>Your current user does not have the proper privileges to access this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>De huidige gebruiker heeft geen toegang tot deze pagina.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/ezoe</name>
     <message>
         <source>Do you want to use the WYSIWYG mode for this textarea?</source>
-        <translation type="unfinished">Wilt u de WYSIWYG modus gebruiken voor dit tekstgebied?</translation>
+        <translation>Wilt u de WYSIWYG modus gebruiken voor dit tekstvlak?</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Toepassen</translation>
+        <translation>Toepassen</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished">Invoegen</translation>
+        <translation>Invoegen</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Updaten</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Sluiten</translation>
+        <translation>Afsluiten</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -124,29 +124,29 @@
     </message>
     <message>
         <source>-- Not set --</source>
-        <translation type="unfinished">-- Niet ingesteld --</translation>
+        <translation>-- Niet ingesteld --</translation>
     </message>
     <message>
         <source>Copy/Cut/Paste is not available in Mozilla and Firefox.
 Do you want more information about this issue?</source>
-        <translation type="unfinished">Kopiëren/Knippen/Plakken is niet beschikbaar in Mozilla en Firefox
-Wenst u hierover meer informatie?</translation>
+        <translation>Kopiëren/Knippen/Plakken is niet beschikbaar in Mozilla en Firefox
+Wilt u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Currently not supported by your browser, use keyboard shortcuts instead.</source>
-        <translation type="unfinished">Momenteel niet ondersteund door uw browser, gebruik de toetsenbordsneltoetsen in plaats hiervan.</translation>
+        <translation>Momenteel niet ondersteund door uw browser, gebruik de toetsenbordsneltoetsen in plaats hiervan.</translation>
     </message>
     <message>
         <source>Sorry, but we have noticed that your popup-blocker has disabled a window that provides application functionality. You will need to disable popup blocking on this site in order to fully utilize this tool.</source>
-        <translation type="unfinished">Sorry, maar we hebben opgemerkt dat uw popup-blocker een venster heeft onderdrukt dat toepassingsfunctionaliteit levert. U moet popup blocking op deze website uitschakelen om dit hulpmiddel volledig te kunnen gebruiken.</translation>
+        <translation>Sorry, maar we hebben opgemerkt dat uw popup-blocker een venster heeft onderdrukt dat toepassingsfunctionaliteit levert. U moet popup blocking op deze website uitschakelen om dit hulpmiddel volledig te kunnen gebruiken.</translation>
     </message>
     <message>
         <source>Error: Invalid values entered, these are marked in red.</source>
-        <translation type="unfinished">Fout: ongeldige ingegeven waarden, deze zijn in het rood gemarkeerd.</translation>
+        <translation>Fout: ongeldige ingegeven waarden, deze zijn rood gemarkeerd.</translation>
     </message>
     <message>
         <source>More colors</source>
-        <translation type="unfinished">Meer kleuren</translation>
+        <translation>Meer kleuren</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -166,111 +166,111 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Full</source>
-        <translation type="unfinished">Volledig</translation>
+        <translation>Volledige breedte</translation>
     </message>
     <message>
         <source>%Y-%m-%d</source>
-        <translation type="unfinished">%Y-%m-%d</translation>
+        <translation>%Y-%m-%d</translation>
     </message>
     <message>
         <source>%H:%M:%S</source>
-        <translation type="unfinished">%H:%M:%S</translation>
+        <translation>%H:%M:%S</translation>
     </message>
     <message>
         <source>Insert date</source>
-        <translation type="unfinished">Datum invoegen</translation>
+        <translation>Datum invoegen</translation>
     </message>
     <message>
         <source>Insert time</source>
-        <translation type="unfinished">Tijd invoegen</translation>
+        <translation>Tijd invoegen</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Afdrukken</translation>
+        <translation>Afdrukken</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Voorbeeldweergave</translation>
+        <translation>Voorbeeldweergave</translation>
     </message>
     <message>
         <source>Direction left to right</source>
-        <translation type="unfinished">Richting links naar rechts</translation>
+        <translation>Richting links naar rechts</translation>
     </message>
     <message>
         <source>Direction right to left</source>
-        <translation type="unfinished">Richting rechts naar links</translation>
+        <translation>Richting rechts naar links</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Opslaan</translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <source>Cancel all changes</source>
-        <translation type="unfinished">Alle wijzigingen annuleren</translation>
+        <translation>Alle wijzigingen annuleren</translation>
     </message>
     <message>
         <source>Insert non-breaking space character</source>
-        <translation type="unfinished">Vast spatieteken invoegen</translation>
+        <translation>Vast spatieteken invoegen</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Vinden</translation>
+        <translation>Vinden</translation>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation type="unfinished">Vinden/Vervangen</translation>
+        <translation>Vinden/Vervangen</translation>
     </message>
     <message>
         <source>Paste as Plain Text</source>
-        <translation type="unfinished">Als tekst zonder opmaak plakken</translation>
+        <translation>Als tekst zonder opmaak plakken</translation>
     </message>
     <message>
         <source>Paste from Word</source>
-        <translation type="unfinished">Van Word plakken</translation>
+        <translation>Uit Word plakken</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished">Alles selecteren</translation>
+        <translation>Alles selecteren</translation>
     </message>
     <message>
         <source>Use CTRL+V on your keyboard to paste the text into the window.</source>
-        <translation type="unfinished">Gebruik CRTL+V op uw toetsenbord om de tekst in het venster te plakken.</translation>
+        <translation>Gebruik CRTL+V op uw toetsenbord om de tekst in het venster te plakken.</translation>
     </message>
     <message>
         <source>Keep linebreaks</source>
-        <translation type="unfinished">Regelonderbrekingen behouden</translation>
+        <translation>Regelonderbrekingen behouden</translation>
     </message>
     <message>
         <source>Inserts a new table</source>
-        <translation type="unfinished">Een nieuwe tabel invoegen</translation>
+        <translation>Een nieuwe tabel invoegen</translation>
     </message>
     <message>
         <source>Insert row before</source>
-        <translation type="unfinished">Rij ervoor invoegen</translation>
+        <translation>Rij ervoor invoegen</translation>
     </message>
     <message>
         <source>Insert row after</source>
-        <translation type="unfinished">Rij erna invoegen</translation>
+        <translation>Rij erna invoegen</translation>
     </message>
     <message>
         <source>Delete row</source>
-        <translation type="unfinished">Rij verwijderen</translation>
+        <translation>Rij verwijderen</translation>
     </message>
     <message>
         <source>Insert column before</source>
-        <translation type="unfinished">Kolom ervoor invoegen</translation>
+        <translation>Kolom ervoor invoegen</translation>
     </message>
     <message>
         <source>Insert column after</source>
-        <translation type="unfinished">Kolom erna invoegen</translation>
+        <translation>Kolom erna invoegen</translation>
     </message>
     <message>
         <source>Remove column</source>
-        <translation type="unfinished">Kolom verwijderen</translation>
+        <translation>Kolom verwijderen</translation>
     </message>
     <message>
         <source>Split merged table cells</source>
-        <translation type="unfinished">Samengevoegde tabelcellen splitsen</translation>
+        <translation>Samengevoegde tabelcellen splitsen</translation>
     </message>
     <message>
         <source>Merge table cells</source>
@@ -278,35 +278,35 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Table row properties</source>
-        <translation type="unfinished">Tabelrijeigenschappen</translation>
+        <translation>Eigenschappen van de tabelrij</translation>
     </message>
     <message>
         <source>Table cell properties</source>
-        <translation type="unfinished">Tabelceleigenschappen</translation>
+        <translation>Eigenschappen van de tabelcel</translation>
     </message>
     <message>
         <source>Table properties</source>
-        <translation type="unfinished">Tabeleigenschappen</translation>
+        <translation>Tabeleigenschappen</translation>
     </message>
     <message>
         <source>Paste table row before</source>
-        <translation type="unfinished">Tabelrij ervoor plakken</translation>
+        <translation>Tabelrij ervoor plakken</translation>
     </message>
     <message>
         <source>Paste table row after</source>
-        <translation type="unfinished">Tabelrij erna plakken</translation>
+        <translation>Tabelrij erna plakken</translation>
     </message>
     <message>
         <source>Cut table row</source>
-        <translation type="unfinished">Tabelrij knippen</translation>
+        <translation>Tabelrij knippen</translation>
     </message>
     <message>
         <source>Copy table row</source>
-        <translation type="unfinished">Tabelrij kopiëren</translation>
+        <translation>Tabelrij kopiëren</translation>
     </message>
     <message>
         <source>Delete table</source>
-        <translation type="unfinished">Tabel verwijderen</translation>
+        <translation>Tabel verwijderen</translation>
     </message>
     <message>
         <source>Row</source>
@@ -330,87 +330,87 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>The changes you made will be lost if you navigate away from this page.</source>
-        <translation type="unfinished">De gemaakte wijzigingen zullen verloren gaan wanneer u deze pagina verlaat.</translation>
+        <translation>De gemaakte wijzigingen gaan verloren wanneer u deze pagina verlaat.</translation>
     </message>
     <message>
         <source>Toggle fullscreen mode</source>
-        <translation type="unfinished">Volledig scherm-modus aan/uit</translation>
+        <translation>Volledig scherm-modus aan/uit</translation>
     </message>
     <message>
         <source>Insert / edit embedded media</source>
-        <translation type="unfinished">Ingesloten media invoegen/bewerken</translation>
+        <translation>Ingesloten media invoegen/bewerken</translation>
     </message>
     <message>
         <source>Edit embedded media</source>
-        <translation type="unfinished">Ingesloten media bewerken</translation>
+        <translation>Ingesloten media bewerken</translation>
     </message>
     <message>
         <source>Document properties</source>
-        <translation type="unfinished">Documenteigenschappen</translation>
+        <translation>Documenteigenschappen</translation>
     </message>
     <message>
         <source>Insert predefined template content</source>
-        <translation type="unfinished">Voorafgedefinieerde sjablooninhoud invoegen</translation>
+        <translation>Vooraf gedefinieerde sjablooninhoud invoegen</translation>
     </message>
     <message>
         <source>Visual control characters on/off.</source>
-        <translation type="unfinished">Visuele stuurcodes aan/uit.</translation>
+        <translation>Visuele stuurcodes aan/uit.</translation>
     </message>
     <message>
         <source>Insert page break.</source>
-        <translation type="unfinished">Pagina-einde invoegen.</translation>
+        <translation>Pagina-einde invoegen.</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished">Stijlen</translation>
+        <translation>Stijlen</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished">Opmaak</translation>
+        <translation>Opmaak</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished">Paragraaf</translation>
+        <translation>Paragraaf</translation>
     </message>
     <message>
         <source>Div</source>
-        <translation type="unfinished">Div</translation>
+        <translation>Div</translation>
     </message>
     <message>
         <source>Literal</source>
-        <translation type="unfinished">Letterlijke waarde</translation>
+        <translation>Letterlijke waarde</translation>
     </message>
     <message>
         <source>Heading 1</source>
-        <translation type="unfinished">Kop 1</translation>
+        <translation>Kop 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
-        <translation type="unfinished">Kop 2</translation>
+        <translation>Kop 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
-        <translation type="unfinished">Kop 3</translation>
+        <translation>Kop 3</translation>
     </message>
     <message>
         <source>Heading 4</source>
-        <translation type="unfinished">Kop 4</translation>
+        <translation>Kop 4</translation>
     </message>
     <message>
         <source>Heading 5</source>
-        <translation type="unfinished">Kop 5</translation>
+        <translation>Kop 5</translation>
     </message>
     <message>
         <source>Heading 6</source>
-        <translation type="unfinished">Kop 6</translation>
+        <translation>Kop 6</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished">Code</translation>
+        <translation>Code</translation>
     </message>
     <message>
         <source>Code sample</source>
-        <translation type="unfinished">Codevoorbeeld</translation>
+        <translation>Codevoorbeeld</translation>
     </message>
     <message>
         <source>Definition term </source>
@@ -418,147 +418,147 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Definition description</source>
-        <translation type="unfinished">Definitieomschrijving</translation>
+        <translation>Definitieomschrijving</translation>
     </message>
     <message>
         <source>Bold (Ctrl+B)</source>
-        <translation type="unfinished">Vet (Ctrl+B)</translation>
+        <translation>Vet (Ctrl+B)</translation>
     </message>
     <message>
         <source>Italic (Ctrl+I)</source>
-        <translation type="unfinished">Cursief (Ctrl+I)</translation>
+        <translation>Cursief (Ctrl+I)</translation>
     </message>
     <message>
         <source>Underline (Ctrl+U)</source>
-        <translation type="unfinished">Onderstrepen (Ctrl+U)</translation>
+        <translation>Onderstrepen (Ctrl+U)</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished">Doorhalen</translation>
+        <translation>Doorhalen</translation>
     </message>
     <message>
         <source>Align left</source>
-        <translation type="unfinished">Links uitlijnen</translation>
+        <translation>Links uitlijnen</translation>
     </message>
     <message>
         <source>Align center</source>
-        <translation type="unfinished">Centreren</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <source>Align right</source>
-        <translation type="unfinished">Rechts uitlijnen</translation>
+        <translation>Rechts uitlijnen</translation>
     </message>
     <message>
         <source>Align full</source>
-        <translation type="unfinished">Volledig uitlijnen</translation>
+        <translation>Volledig uitlijnen</translation>
     </message>
     <message>
         <source>Unordered list</source>
-        <translation type="unfinished">Niet-geordende lijst</translation>
+        <translation>Ongeordende lijst</translation>
     </message>
     <message>
         <source>Ordered list</source>
-        <translation type="unfinished">Geordende lijst</translation>
+        <translation>Geordende lijst</translation>
     </message>
     <message>
         <source>Outdent</source>
-        <translation type="unfinished">Negatief inspringen</translation>
+        <translation>Uitspringen</translation>
     </message>
     <message>
         <source>Indent</source>
-        <translation type="unfinished">Inspringen</translation>
+        <translation>Inspringen</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation type="unfinished">Ongedaan maken (Ctrl+Z)</translation>
+        <translation>Ongedaan maken (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation type="unfinished">Opnieuw (Ctrl+Y)</translation>
+        <translation>Opnieuw (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Insert/edit link</source>
-        <translation type="unfinished">Link invoegen/bewerken</translation>
+        <translation>Link invoegen/bewerken</translation>
     </message>
     <message>
         <source>Unlink</source>
-        <translation type="unfinished">Ontkoppelen</translation>
+        <translation>Link verwijderen</translation>
     </message>
     <message>
         <source>Insert/edit image</source>
-        <translation type="unfinished">Afbeelding invoegen/bewerken</translation>
+        <translation>Afbeelding invoegen/bewerken</translation>
     </message>
     <message>
         <source>Insert/edit object</source>
-        <translation type="unfinished">Object invoegen/bewerken</translation>
+        <translation>Object invoegen/bewerken</translation>
     </message>
     <message>
         <source>Insert custom tag</source>
-        <translation type="unfinished">Aangepast label invoegen</translation>
+        <translation>Aangepast label invoegen</translation>
     </message>
     <message>
         <source>Insert literal text</source>
-        <translation type="unfinished">Letterlijke waardetekst invoegen</translation>
+        <translation>Letterlijke waardetekst invoegen</translation>
     </message>
     <message>
         <source>Insert pagebreak</source>
-        <translation type="unfinished">Pagina-einde invoegen</translation>
+        <translation>Pagina-einde invoegen</translation>
     </message>
     <message>
         <source>Cleanup messy code</source>
-        <translation type="unfinished">Cleanup messy code</translation>
+        <translation>Code opschonen</translation>
     </message>
     <message>
         <source>Edit HTML Source</source>
-        <translation type="unfinished">HTML Bron bewerken</translation>
+        <translation>HTML Broncode bewerken</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished">Subscript</translation>
+        <translation>Subscript</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished">Superscript</translation>
+        <translation>Superscript</translation>
     </message>
     <message>
         <source>Remove formatting</source>
-        <translation type="unfinished">Opmaak verwijderen</translation>
+        <translation>Opmaak verwijderen</translation>
     </message>
     <message>
         <source>Your custom description here</source>
-        <translation type="unfinished">Uw klantenomschrijving hier</translation>
+        <translation>Uw aangepaste beschrijving hier</translation>
     </message>
     <message>
         <source>Insert special character</source>
-        <translation type="unfinished">Speciaal teken invoegen</translation>
+        <translation>Speciaal teken invoegen</translation>
     </message>
     <message>
         <source>Toggle guidelines/invisible elements</source>
-        <translation type="unfinished">Richtlijnen/onzichtbare elementen aan/uit</translation>
+        <translation>Richtlijnen/onzichtbare elementen aan/uitschakelen</translation>
     </message>
     <message>
         <source>Insert/edit anchor</source>
-        <translation type="unfinished">Anker invoegen/bewerken</translation>
+        <translation>Anker invoegen/bewerken</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished">Knippen</translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Kopiëren</translation>
+        <translation>Kopiëren</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">Plakken</translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Image properties</source>
-        <translation type="unfinished">Afbeeldingeigenschappen</translation>
+        <translation>Afbeeldingseigenschappen</translation>
     </message>
     <message>
         <source>New document</source>
-        <translation type="unfinished">Nieuw document</translation>
+        <translation>Nieuw document</translation>
     </message>
     <message>
         <source>Help</source>
@@ -566,31 +566,31 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished">PAd</translation>
+        <translation>Pad</translation>
     </message>
     <message>
         <source>Are you sure you want clear all contents?</source>
-        <translation type="unfinished">Bent u zeker dat u alle inhoud wilt wisssen?</translation>
+        <translation>Bent u zeker dat u de volledige inhoud wilt wisssen?</translation>
     </message>
     <message>
         <source>Jump to tool buttons - Alt+Q, Jump to editor - Alt-Z, Jump to element path - Alt-X</source>
-        <translation type="unfinished">Snel naar hulpmiddelknoppen - Alt+Q, Snel naar editor - Alt+Z Snel naar elementpad - Alt+X</translation>
+        <translation>Naar hulpknoppen springen - Alt+Q, Naar editor springen - Alt+Z Naar pad springen - Alt+X</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished">Volgende</translation>
+        <translation>Volgende</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished">Vorige</translation>
+        <translation>Vorige</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Selecteer</translation>
+        <translation>Selecteren</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>About</source>
@@ -606,7 +606,7 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Plugin</source>
-        <translation type="unfinished">Invoegtoepassing</translation>
+        <translation>Plugin</translation>
     </message>
     <message>
         <source>Author</source>
@@ -618,47 +618,47 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Loaded plugins</source>
-        <translation type="unfinished">Geladen invoegtoepassingen</translation>
+        <translation>Geladen plugins</translation>
     </message>
     <message>
         <source>HTML Source Editor</source>
-        <translation type="unfinished">HTML broneditor</translation>
+        <translation>HTML broneditor</translation>
     </message>
     <message>
         <source>Word wrap</source>
-        <translation type="unfinished">Tekstterugloop</translation>
+        <translation>Tekstterugloop</translation>
     </message>
     <message>
         <source>Select a color</source>
-        <translation type="unfinished">Selecteer een kleur</translation>
+        <translation>Een kleur selecteren</translation>
     </message>
     <message>
         <source>Picker</source>
-        <translation type="unfinished">Kiezer</translation>
+        <translation>Kiezer</translation>
     </message>
     <message>
         <source>Color picker</source>
-        <translation type="unfinished">Kleurkiezer</translation>
+        <translation>Kleurkiezer</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished">Palet</translation>
+        <translation>Palet</translation>
     </message>
     <message>
         <source>Palette colors</source>
-        <translation type="unfinished">Kleurenpalet</translation>
+        <translation>Paletkleuren</translation>
     </message>
     <message>
         <source>Named</source>
-        <translation type="unfinished">Benoemd</translation>
+        <translation>Met naam</translation>
     </message>
     <message>
         <source>Named colors</source>
-        <translation type="unfinished">Benoemde kleuren</translation>
+        <translation>Kleuren met naam</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Kleur</translation>
+        <translation>Kleur</translation>
     </message>
     <message>
         <source>Name</source>
@@ -666,7 +666,7 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Select special character</source>
-        <translation type="unfinished">Selecteer speciaal teken</translation>
+        <translation>Speciaal teken selecteren</translation>
     </message>
     <message>
         <source>All</source>
@@ -830,23 +830,23 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Invalid or missing parameter: %parameter</source>
-        <translation type="unfinished">Ongeldige of ontbrekende parameter: %parameter</translation>
+        <translation>Ongeldige of ontbrekende parameter: %parameter</translation>
     </message>
     <message>
         <source>Invalid parameter: %parameter = %value</source>
-        <translation type="unfinished">Ongeldige parameter: %parameter = %value</translation>
+        <translation>Ongeldige parameter: %parameter = %value</translation>
     </message>
     <message>
         <source>this</source>
-        <translation type="unfinished"></translation>
+        <translation>deze</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Boven</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Onder</translation>
     </message>
     <message>
         <source>List of possible link types. Link types that use the &apos;://&apos; format are technically called protocols.</source>
@@ -854,47 +854,47 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>eznode</source>
-        <translation type="unfinished"></translation>
+        <translation>eznode</translation>
     </message>
     <message>
         <source>ezobject</source>
-        <translation type="unfinished"></translation>
+        <translation>ezobject</translation>
     </message>
     <message>
         <source>Ftp</source>
-        <translation type="unfinished"></translation>
+        <translation>Ftp</translation>
     </message>
     <message>
         <source>Http</source>
-        <translation type="unfinished"></translation>
+        <translation>Http</translation>
     </message>
     <message>
         <source>Https</source>
-        <translation type="unfinished"></translation>
+        <translation>Https</translation>
     </message>
     <message>
         <source>Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Mail</translation>
     </message>
     <message>
         <source>Anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>Anker</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Anders</translation>
     </message>
     <message>
         <source>Id not valid!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldig ID!</translation>
     </message>
     <message>
         <source>The url the link points to, starts with link type (like http://).</source>
-        <translation type="unfinished"></translation>
+        <translation>De URL waar de link naartoe gaat begint met het linktype (bijvoorbeeld http://).</translation>
     </message>
     <message>
         <source>Class are often used to give different design or appearance, either by using a different template, style or both.</source>
-        <translation type="unfinished"></translation>
+        <translation>De klasse wordt gebruikt om een ander ontwerp te tonen, door gebruik te maken van een ander sjabloon of stijlopmaak, of beide.</translation>
     </message>
     <message>
         <source>Lets you specify the target window for the link, if any.</source>
@@ -902,11 +902,11 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>The title on the (x)html tag, used by screen readers, and to give better explanation like this one.</source>
-        <translation type="unfinished"></translation>
+        <translation>De titel van de (x)html tag. Dit wordt gebruikt door schermlezers, en om een uitleg van de link (zoals deze tekst!) te geven.</translation>
     </message>
     <message>
         <source>To set the width of the tag, either as percentage by appending % or as pixel size by just using a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel de breedte van de tag in als percentage (door % toe te voegen), of als absolute breedte in pixels (door alleen een nummer in te vullen).</translation>
     </message>
     <message>
         <source>The unique identifier used for the element in the (x)html output, used by style sheets and/or anchors.</source>
@@ -914,83 +914,83 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>New %tag_name tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw %tag_name label</translation>
     </message>
     <message>
         <source>Edit %tag_name tag</source>
-        <translation type="unfinished"></translation>
+        <translation>%tag_name label wijzigen</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie</translation>
     </message>
     <message>
         <source>Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>Relatie</translation>
     </message>
     <message>
         <source>Switch embed file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingevoegd object veranderen</translation>
     </message>
     <message>
         <source>Edit file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand wijzigen</translation>
     </message>
     <message>
         <source>Edit image</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding wijzigen</translation>
     </message>
     <message>
         <source>Edit object</source>
-        <translation type="unfinished"></translation>
+        <translation>Object wijzigen</translation>
     </message>
     <message>
         <source>[default]</source>
-        <translation type="unfinished"></translation>
+        <translation>[standaard]</translation>
     </message>
     <message>
         <source>New window (_blank)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw venster (_blank)</translation>
     </message>
     <message>
         <source>Table cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelcel</translation>
     </message>
     <message>
         <source>Table header</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelkop</translation>
     </message>
     <message>
         <source>Upload new File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw bestand uploaden</translation>
     </message>
     <message>
         <source>There are no related files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er zijn geen gerelateerde bestanden.</translation>
     </message>
     <message>
         <source>Upload new Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe afbeelding uploaden</translation>
     </message>
     <message>
         <source>Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Labels</translation>
     </message>
     <message>
         <source>There are no related images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er zijn geen gerelateerde afbeeldingen.</translation>
     </message>
     <message>
         <source>Upload new Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw object uploaden</translation>
     </message>
     <message>
         <source>Run spell checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Spellingscontrole uitvoeren</translation>
     </message>
     <message>
         <source>ieSpell not detected. Do you want to install it now?</source>
@@ -998,15 +998,15 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Horizontale rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale lijn</translation>
     </message>
     <message>
         <source>Emotions</source>
-        <translation type="unfinished"></translation>
+        <translation>Smileys</translation>
     </message>
     <message>
         <source>Insert emotion</source>
-        <translation type="unfinished"></translation>
+        <translation>Smiley invoegen</translation>
     </message>
     <message>
         <source>Cool</source>
@@ -1090,31 +1090,31 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Ignore word</source>
-        <translation type="unfinished"></translation>
+        <translation>Woord negeren</translation>
     </message>
     <message>
         <source>Ignore all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles negeren</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Talen</translation>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Even wachten...</translation>
     </message>
     <message>
         <source>Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>Suggesties</translation>
     </message>
     <message>
         <source>No suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen suggesties</translation>
     </message>
     <message>
         <source>No misspellings found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen spelfouten gevonden.</translation>
     </message>
     <message>
         <source>Definition term</source>
@@ -1122,18 +1122,18 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Insert/edit file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand invoegen/bewerken</translation>
     </message>
     <message>
         <source>Insert horizontal ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale lijn invoegen</translation>
     </message>
 </context>
 <context>
     <name>design/standard/ezoe/handler</name>
     <message>
         <source>Node %1 does not exist.</source>
-        <translation type="unfinished">Node %1 bestaat niet.</translation>
+        <translation>Locatie %1 bestaat niet.</translation>
     </message>
     <message>
         <source>Node &apos;%1&apos; does not exist.</source>
@@ -1141,15 +1141,15 @@ Wenst u hierover meer informatie?</translation>
     </message>
     <message>
         <source>Object %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Object %1 bestaat niet.</translation>
     </message>
     <message>
         <source>Node &amp;apos;%1&amp;apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie &apos;%1&apos; bestaat niet.</translation>
     </message>
     <message>
         <source>Some objects used in embed(-inline) tags have been deleted and are no longer available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sommige objecten die zijn gebruik bij &apos;object invoegen&apos; zijn niet langer beschikbaar en verwijderd.</translation>
     </message>
 </context>
 <context>
@@ -1532,28 +1532,28 @@ Wenst u hierover meer informatie?</translation>
     <name>design/standard/node/view</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Voorbeeldweergave</translation>
+        <translation>Voorbeeldweergave</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes</name>
     <message>
         <source>Content required</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhoud verplicht</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezxmltext</name>
     <message>
         <source>Invalid e-mail address: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldig e-mailadres: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>kernel/content</name>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoofdlocaties</translation>
     </message>
 </context>
 </TS>
