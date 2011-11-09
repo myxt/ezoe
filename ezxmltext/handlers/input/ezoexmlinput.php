@@ -1227,7 +1227,10 @@ class eZOEXMLInput extends eZXMLInputHandler
                     }
 
                     if ( $alignment === 'center' )
+                    {
                         $objectAttr .= ' align="middle"';
+                        $className .= ' ezoeAlignmiddle'; // align="middle" is not taken into account by browsers on img
+                    }
                     else if ( $alignment )
                         $objectAttr .= ' align="' . $alignment . '"';
 
@@ -1534,8 +1537,11 @@ class eZOEXMLInput extends eZXMLInputHandler
                     $customAttributePart .= ' style="width:' . $width . ';"';
                 }*/
 
-                if ( is_string( $border ) )
+                if ( $border !== '' && is_string( $border ) )
                 {
+                    if ( $border === '0%' )
+                        $border = '0';// Strip % if 0 to make sure TinyMCE shows a dotted border
+
                     $customAttributePart .= ' border="' . $border . '"';
                 }
 
