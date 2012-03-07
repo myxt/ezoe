@@ -194,6 +194,26 @@
                     alignfull : {selector : alignElements, attributes : {align : 'full'}}
                 });
                 // End eZ: alignment customizations
+
+                // eZ: make sure the HTML is up to date when leaving the editor
+                // and generate a blur event on the textarea
+                tinymce.dom.Event.add(ed.getWin(), 'blur', function (e) {
+                    var textarea = ed.getElement(), evt;
+                    tinymce.triggerSave();
+
+                    if ( document.createEvent ) {
+                        evt = document.createEvent('HTMLEvents');
+                        evt.initEvent('blur', true, true);
+                        textarea.dispatchEvent(evt);
+                    } else if ( document.createEventObject ) {
+                        textarea.fireEvent('onblur');
+                    }
+                });
+            });
+
+            // eZ: regularly update the textarea
+            ed.onChange.add(function(ed) {
+                tinymce.triggerSave();
             });
 
             ed.onSetProgressState.add(function(ed, b, ti) {
