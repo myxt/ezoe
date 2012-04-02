@@ -5,7 +5,7 @@
 // ## BEGIN COPYRIGHT, LICENSE AND WARRANTY NOTICE ##
 // SOFTWARE NAME: eZ Online Editor extension for eZ Publish
 // SOFTWARE RELEASE: 1.x
-// COPYRIGHT NOTICE: Copyright (C) 1999-2011 eZ Systems AS
+// COPYRIGHT NOTICE: Copyright (C) 1999-2012 eZ Systems AS
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >
 //   This program is free software; you can redistribute it and/or
@@ -145,6 +145,7 @@ class ezoeServerFunctions extends ezjscServerFunctions
                 'tongue_out' => ezpI18n::tr( 'design/standard/ezoe', "Tongue out"),
                 'undecided' => ezpI18n::tr( 'design/standard/ezoe', "Undecided"),
                 'wink' => ezpI18n::tr( 'design/standard/ezoe', "Wink"),
+                'usage' => ezpI18n::tr( 'design/standard/ezoe', "Use left and right arrows to navigate."),
                 'yell' => ezpI18n::tr( 'design/standard/ezoe', "Yell"),
             ),
             'searchreplace' => array(
@@ -337,6 +338,7 @@ class ezoeServerFunctions extends ezjscServerFunctions
                 'colorpicker_named_title' => ezpI18n::tr( 'design/standard/ezoe', "Named colors"),
                 'colorpicker_color' => ezpI18n::tr( 'design/standard/ezoe', "Color"),
                 'colorpicker_name' => ezpI18n::tr( 'design/standard/ezoe', "Name"),
+                'charmap_usage' => ezpI18n::tr( 'design/standard/ezoe', "Use left and right arrows to navigate."),
                 'charmap_title' => ezpI18n::tr( 'design/standard/ezoe', "Select special character")/*,
                 'image_title' => ezpI18n::tr( 'design/standard/ezoe', "Insert/edit image"),
                 'image_src' => ezpI18n::tr( 'design/standard/ezoe', "Image URL"),
@@ -472,6 +474,10 @@ class ezoeServerFunctions extends ezjscServerFunctions
 
         $node = eZContentObjectTreeNode::fetch( $nodeID );
         if ( !$node instanceOf eZContentObjectTreeNode )
+        {
+            throw new ezcBaseFunctionalityNotSupportedException( 'Browse node list', "Parent node '$nodeID' is not valid" );
+        }
+        else if ( !$node->canRead() )
         {
             throw new ezcBaseFunctionalityNotSupportedException( 'Browse node list', "Parent node '$nodeID' is not valid" );
         }
